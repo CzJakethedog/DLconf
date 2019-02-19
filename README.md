@@ -13,7 +13,7 @@ After git clone, you can directly install all the package including:
 - Opencv-3.3
 - tensorflow
 - Keras
-- scipy, matplotlib, scikit-learn, imutils, h5py, pillow
+- numpy, scipy, matplotlib, scikit-learn, imutils, h5py, pillow
 
 ```
 make install
