@@ -4,7 +4,7 @@ Here is attached the file to configure the environment for Deep Learning by usin
 Follow the following step in Ubuntu 16.04 LTS environment.
 
 ```
-      git clone https://github.com/CzJakethedog/DLconf.git
+https://github.com/CzJakethedog/Deeplearning-setup.git
 
 ```
 ## Installation
@@ -16,12 +16,12 @@ After git clone, you can directly install all the package including:
 - scipy, matplotlib, scikit-learn, imutils, h5py, pillow
 
 ```
-    make install
+make install
 ```
 
 if you need to know the options of "make", please use the following command:
 ```
-    make help
+make help
 ```
 
 ## Note
