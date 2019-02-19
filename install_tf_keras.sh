@@ -1,7 +1,7 @@
 #! /bin/bash
 
-pip install scipy matplotlib pillow
-pip install imutils h5py requests progressbar2
-pip install scikit-learn scikit-image
-pip install tensorflow
-pip install keras
+pip install scipy matplotlib pillow --user
+pip install imutils h5py requests progressbar2 --user
+pip install scikit-learn scikit-image --user
+pip install tensorflow --user
+pip install keras --user
