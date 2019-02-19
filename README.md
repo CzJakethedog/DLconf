@@ -1,4 +1,4 @@
-# DLconf
+# Deep Learning Environment Configuration (Keras)
 
 Here is attached the file to configure the environment for Deep Learning by using Keras and Backend is tensorflow on CPU.
 Follow the following step in Ubuntu 16.04 LTS environment.
