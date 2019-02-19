@@ -23,3 +23,13 @@ if you need to know the options of "make", please use the following command:
 ```
     make help
 ```
+
+## Note
+Starting with TensorFlow 1.6, binaries use AVX instructions which may not run on older CPUs.
+
+Note: Not all CPUs from the listed families support AVX. Generally, CPUs with the commercial denomination "Core i3/i5/i7" support them, whereas "Pentium" and "Celeron" CPUs don't.
+
+for the older tensorflow 1.5 version, please type the command:
+```
+pip install tensorflow==1.5 --user
+```
